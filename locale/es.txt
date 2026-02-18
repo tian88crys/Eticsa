@@ -1,0 +1,150 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_4192438B_5527_10C1_41C3_D43AEEC1E165.source = https://web.facebook.com/AguasAndinas.oficial/?_rdc=1&_rdr
+LinkBehaviour_43CAED00_556B_11BF_41A9_B611B52A7794.source = https://web.facebook.com/AguasAndinas.oficial/?_rdc=1&_rdr
+LinkBehaviour_42579819_5565_7FC0_41D2_3C0EC07AC42A.source = https://www.aguasandinas.cl/
+LinkBehaviour_43C8F60E_556F_33C3_41C3_5870AAE94E11.source = https://www.aguasandinas.cl/
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3436.0415653391256!2d-70.82398602431698!3d-33.263050073464235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzQ3LjAiUyA3MMKwNDknMTcuMSJX!5e1!3m2!1ses!2scl!4v1765487604996!5m2!1ses!2scl
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4080.1925115772415!2d-70.61648912673793!3d-33.42363657049632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cf64210b0d67%3A0x525cfc5a8ce3da0!2sNuncio%20Mons.%20S%C3%B3tero%20Sanz%20de%20Villalba%2055%2C%207500000%20Providencia%2C%20Regi%C3%B3n%20Metropolitana%2C%20Chile!5e1!3m2!1ses-419!2sus!4v1765642174780!5m2!1ses-419!2sus
+LinkBehaviour_43C41B49_556F_3041_41A1_F85F88603C80.source = https://www.instagram.com/aguas_andinas
+LinkBehaviour_43618A75_5565_3041_419A_99EEA3977420.source = https://www.instagram.com/aguas_andinas
+LinkBehaviour_43603568_557B_104F_41AB_935CCF4A87D0.source = https://www.youtube.com/channel/UCP71zwHDDF17volKMhXOJAg
+LinkBehaviour_431682A6_556B_F0C3_41C0_E372592E34D2.source = https://www.youtube.com/channel/UCP71zwHDDF17volKMhXOJAg
+LinkBehaviour_431FD834_5525_7FC7_41C0_7C93C0E5BAD6.source = https://x.com/aguas_andinas
+LinkBehaviour_437FC315_556D_11C1_41D1_B613A93349EC.source = https://x.com/aguas_andinas
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_1C3932FF_0FA3_C384_41A2_BC62C4AA1CCB.text = Nivel de protección (IP), Materialidad de alta resistencia, Aislamiento térmico/acústico.
+
+## Media
+
+### Audio
+audiores_143F0E3E_0E63_4284_4194_ED6B958559E3.mp3Url = media/audio_15A6E14C_0E63_5E8B_41A7_C7D6B21098BD_es.mp3
+audiores_719E3864_6B94_E28B_41BB_A9DE29D59F74.mp3Url = media/audio_71C76BBF_6B94_A5F5_41B8_201EC4FCDA7E_es.mp3
+
+### Imágen
+imlevel_EB7A1760_FB11_E5A4_41D1_F77539AE8EBE.url = media/panorama_EB946DAC_FB11_64BC_41E7_AF639DE58BBF_HS_86y7j6zc_es.png
+imlevel_EAF93C4A_FB11_EBE4_41D1_8242B501BBF0.url = media/panorama_EB946DAC_FB11_64BC_41E7_AF639DE58BBF_HS_a3g8awg8_es.png
+imlevel_1197B292_0541_BCEB_414D_B3D8620F3C7C.url = media/popup_0C396991_1CA9_B945_4199_78CFED1F6ED6_es_0_0.png
+imlevel_11979292_0541_BCEB_415A_959C0AF3969C.url = media/popup_0C396991_1CA9_B945_4199_78CFED1F6ED6_es_0_1.png
+imlevel_11978293_0541_BCE9_415C_74DD21B56CC0.url = media/popup_0C396991_1CA9_B945_4199_78CFED1F6ED6_es_0_2.png
+imlevel_1197E293_0541_BCE9_413F_77BE3A7326BE.url = media/popup_0C396991_1CA9_B945_4199_78CFED1F6ED6_es_0_3.png
+imlevel_1197D293_0541_BCE9_4157_4EB9FF02AFB8.url = media/popup_0C396991_1CA9_B945_4199_78CFED1F6ED6_es_0_4.png
+imlevel_119782AB_0541_BC39_4162_A203E58BDCDC.url = media/popup_0D1E9827_1CA9_674D_415F_594AF5B3A470_es_0_0.png
+imlevel_1197E2AC_0541_BC3F_4166_CF73B25CDEE5.url = media/popup_0D1E9827_1CA9_674D_415F_594AF5B3A470_es_0_1.png
+imlevel_1197D2AC_0541_BC3F_4164_0F93525D0B28.url = media/popup_0D1E9827_1CA9_674D_415F_594AF5B3A470_es_0_2.png
+imlevel_1197C2AD_0541_BC39_4166_A0EB03E3B881.url = media/popup_0D1E9827_1CA9_674D_415F_594AF5B3A470_es_0_3.png
+imlevel_119422AE_0541_BC3B_413F_844D1D20ADF4.url = media/popup_0D1E9827_1CA9_674D_415F_594AF5B3A470_es_0_4.png
+imlevel_374EC464_251D_285A_419A_C3F155A80100.url = media/popup_14BACC73_0FA6_C69C_4195_9102F17D8403_es_0_0.png
+imlevel_374ED465_251D_285A_4196_2C1B3E496D10.url = media/popup_14BACC73_0FA6_C69C_4195_9102F17D8403_es_0_1.png
+imlevel_37410465_251D_285A_41C1_0C772E9F6036.url = media/popup_14BACC73_0FA6_C69C_4195_9102F17D8403_es_0_2.png
+imlevel_37412465_251D_285A_41B1_9EAB8B020E5A.url = media/popup_14BACC73_0FA6_C69C_4195_9102F17D8403_es_0_3.png
+imlevel_37413466_251D_2826_41B0_E34869F25DE2.url = media/popup_14BACC73_0FA6_C69C_4195_9102F17D8403_es_0_4.png
+imlevel_37892F8F_251D_58E7_4184_83FEAAC4290F.url = media/popup_14C281F7_0E67_4183_41A2_9B6F7CF59D4C_es_0_0.png
+imlevel_37890F8F_251D_58E7_41C1_59165A3E9E0A.url = media/popup_14C281F7_0E67_4183_41A2_9B6F7CF59D4C_es_0_1.png
+imlevel_37896F90_251D_58F9_41C1_F0DDE8D96A80.url = media/popup_14C281F7_0E67_4183_41A2_9B6F7CF59D4C_es_0_2.png
+imlevel_37895F90_251D_58F9_41BC_D09429F2D05C.url = media/popup_14C281F7_0E67_4183_41A2_9B6F7CF59D4C_es_0_3.png
+imlevel_3789BF90_251D_58F9_41A3_C59FE2B5E659.url = media/popup_14C281F7_0E67_4183_41A2_9B6F7CF59D4C_es_0_4.png
+imlevel_37054771_251B_283A_41BD_6C617B84FDB6.url = media/popup_14F56D04_0FA3_C684_41A5_1299F8D330E0_es_0_0.png
+imlevel_37055771_251B_283A_41B8_B7715341FE50.url = media/popup_14F56D04_0FA3_C684_41A5_1299F8D330E0_es_0_1.png
+imlevel_37056771_251B_283A_41C0_E3F412E8D8EF.url = media/popup_14F56D04_0FA3_C684_41A5_1299F8D330E0_es_0_2.png
+imlevel_37057772_251B_283E_4185_C4F283435F2D.url = media/popup_14F56D04_0FA3_C684_41A5_1299F8D330E0_es_0_3.png
+imlevel_37050772_251B_283E_41BC_655EF666A2CD.url = media/popup_14F56D04_0FA3_C684_41A5_1299F8D330E0_es_0_4.png
+imlevel_34F80EF1_251B_583A_41AD_6F08613B23A0.url = media/popup_35B39DBF_2514_F826_41B1_A9A298AFC387_es_0_0.png
+imlevel_34E56EF2_251B_583E_41B2_FC1DDFA1213B.url = media/popup_35B39DBF_2514_F826_41B1_A9A298AFC387_es_0_1.png
+imlevel_34E69EF2_251B_583E_41C2_3310D6BB6AAE.url = media/popup_35B39DBF_2514_F826_41B1_A9A298AFC387_es_0_2.png
+imlevel_34E6BEF4_251B_583A_4186_63C9A0CD7724.url = media/popup_35B39DBF_2514_F826_41B1_A9A298AFC387_es_0_3.png
+imlevel_34E6AEF4_251B_583A_41BA_2A224B494CF6.url = media/popup_35B39DBF_2514_F826_41B1_A9A298AFC387_es_0_4.png
+imlevel_34D687A3_251B_28DE_41A7_1E541C5944D4.url = media/popup_35B4F334_2515_283A_4186_1D190E07D582_es_0_0.png
+imlevel_34D697A3_251B_28DE_41B2_BD9B25DF9931.url = media/popup_35B4F334_2515_283A_4186_1D190E07D582_es_0_1.png
+imlevel_34D6B7A3_251B_28DE_41B2_51857ED52CFA.url = media/popup_35B4F334_2515_283A_4186_1D190E07D582_es_0_2.png
+imlevel_34D6C7A4_251B_28DA_41B4_BCCDEA2932E6.url = media/popup_35B4F334_2515_283A_4186_1D190E07D582_es_0_3.png
+imlevel_34D6E7A4_251B_28DA_41B7_8CA83C8BA3CA.url = media/popup_35B4F334_2515_283A_4186_1D190E07D582_es_0_4.png
+imlevel_373C8052_251C_E87E_419C_08D168E782F8.url = media/popup_C6C91FCA_D7C4_BBA4_4173_58DA7EBD9AE7_es_0_0.png
+imlevel_373C7052_251C_E87E_41BF_9C38BD1887CD.url = media/popup_C6C91FCA_D7C4_BBA4_4173_58DA7EBD9AE7_es_0_1.png
+imlevel_373C6053_251C_E87E_41BC_8E4CB0B61FF1.url = media/popup_C6C91FCA_D7C4_BBA4_4173_58DA7EBD9AE7_es_0_2.png
+imlevel_373C4053_251C_E87E_41BC_B2AD3243F4D7.url = media/popup_C6C91FCA_D7C4_BBA4_4173_58DA7EBD9AE7_es_0_3.png
+imlevel_373C2053_251C_E87E_41B6_4A4FEE955E86.url = media/popup_C6C91FCA_D7C4_BBA4_4173_58DA7EBD9AE7_es_0_4.png
+imlevel_37651B53_251D_787E_41BE_726B22377A24.url = media/popup_C6CCD4FB_D7C5_AD65_41C5_9354B6FBF505_es_0_0.png
+imlevel_37657B54_251D_787A_41B3_88C5181F5C88.url = media/popup_C6CCD4FB_D7C5_AD65_41C5_9354B6FBF505_es_0_1.png
+imlevel_37655B54_251D_787A_41B6_5B446527F5F9.url = media/popup_C6CCD4FB_D7C5_AD65_41C5_9354B6FBF505_es_0_2.png
+imlevel_3765AB54_251D_787A_41AB_18952C21A667.url = media/popup_C6CCD4FB_D7C5_AD65_41C5_9354B6FBF505_es_0_3.png
+imlevel_3765BB55_251D_787A_41A3_BA646812D971.url = media/popup_C6CCD4FB_D7C5_AD65_41C5_9354B6FBF505_es_0_4.png
+imlevel_3765CB68_251D_782A_4185_98797981CB28.url = media/popup_C6E34284_D7C7_A5A3_41CA_5C1DF3E8857C_es_0_0.png
+imlevel_3765DB68_251D_782A_419F_231E5AA5F6E0.url = media/popup_C6E34284_D7C7_A5A3_41CA_5C1DF3E8857C_es_0_1.png
+imlevel_37640B68_251D_782A_418C_8CE205A28D15.url = media/popup_C6E34284_D7C7_A5A3_41CA_5C1DF3E8857C_es_0_2.png
+imlevel_37641B69_251D_782A_418D_1EC87C40B968.url = media/popup_C6E34284_D7C7_A5A3_41CA_5C1DF3E8857C_es_0_3.png
+imlevel_37646B69_251D_782A_419B_4D3DC9F599F0.url = media/popup_C6E34284_D7C7_A5A3_41CA_5C1DF3E8857C_es_0_4.png
+imlevel_373B103F_251C_E826_4195_2951F540E62D.url = media/popup_C6E4E215_D7CD_E4AC_41E5_8F122FF8F91E_es_0_0.png
+imlevel_373CF03F_251C_E826_4164_4F1D897EB3A8.url = media/popup_C6E4E215_D7CD_E4AC_41E5_8F122FF8F91E_es_0_1.png
+imlevel_373CC03F_251C_E826_4187_FB9971998785.url = media/popup_C6E4E215_D7CD_E4AC_41E5_8F122FF8F91E_es_0_2.png
+imlevel_373CB040_251C_E85A_41B2_CE15F878DA5C.url = media/popup_C6E4E215_D7CD_E4AC_41E5_8F122FF8F91E_es_0_3.png
+imlevel_373CA040_251C_E85A_41C0_FFED07A95E04.url = media/popup_C6E4E215_D7CD_E4AC_41E5_8F122FF8F91E_es_0_4.png
+
+### Popup Imágen
+
+### Subtítulos de Audio
+
+### Título
+panorama_EB946DAC_FB11_64BC_41E7_AF639DE58BBF.label = Exterior 1
+panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587.label = Exterior 2
+panorama_F40DED32_FAFE_E5A4_41DF_05346E0755D8.label = Exterior 3
+panorama_023052CB_0FE3_438C_41A3_4930EBECACB5.label = Exterior 4
+panorama_0A59490C_1CEE_9943_4199_DCDB42C548C0.label = Interior 1
+panorama_15EAF4B8_1C97_AF43_41A5_112619B2CF72.label = Interior 2
+panorama_15FEDC99_1C96_BF45_41B2_6C2710E4006D.label = Interior 3
+panorama_15807509_1C96_A942_4193_5125241822CC.label = Interior 4
+panorama_159FF030_1CE9_A743_41B0_9D357BD65024.label = Interior 5
+
+## Skin
+
+### Botón
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = GALERIA
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = GALERIA
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = IMÁGENES
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = IMÁGENES
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFORMACIÓN
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = UBICACIÓN
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = UBICACIÓN
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Etiqueta
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = Central Hidroeléctrica
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = {{Title}}
+Label_CEDC3AD8_DCC6_4934_41C4_E154D129BFFF.text = {{Title}}
+
+### Imágen
+Image_02A84C86_2E11_C8AB_41AC_C4D5E5FD70CB.url = skin/Image_02A84C86_2E11_C8AB_41AC_C4D5E5FD70CB_es.png
+Image_05AA17FD_2C9F_D320_41A0_650065D70218.url = skin/Image_05AA17FD_2C9F_D320_41A0_650065D70218_es.png
+Image_09F256CB_2CAC_D560_41C5_CFACDA912823.url = skin/Image_09F256CB_2CAC_D560_41C5_CFACDA912823_es.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_es.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_es.png
+Image_1CE3EE94_2E12_48AF_41B8_69570C83A422.url = skin/Image_1CE3EE94_2E12_48AF_41B8_69570C83A422_es.png
+
+### Texto Multilínea
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Sora';">Lista de Imágenes</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.7599999999999945vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.66836086404066vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:2.67vmin;font-family:'Roobert ENEL Light';"><B>Diseño y Construcción de </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.66836086404066vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:2.67vmin;font-family:'Roobert ENEL Light';"><B>Data Centers Tier III/IV</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8564356435643543vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.86vmin;font-family:'Roobert ENEL Light';">Especialistas en infraestructura crítica para minería, energía, banca y salud. Más de 500 proyectos implementados con certificación ANSI/TIA-942. Ahora con asistente de IA para diagnóstico predictivo 24/7.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.066073697585766vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:4.07vmin;font-family:'Sora ExtraBold';"><B>Quiénes Somos</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.07vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2497187851518547vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.25vmin;font-family:'Sora';">ETICSA es una empresa líder en infraestructura crítica con más de 35 años de trayectoria en Chile y Latinoamérica. Nos especializamos en ingeniería, diseño y mantenimiento de data centers, salas de control y sistemas tecnológicos críticos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2497187851518547vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.25vmin;font-family:'Sora';">Nuestra experiencia abarca sectores donde la continuidad operativa es esencial: minería, energía, salud, banca y telecomunicaciones. Hemos completado más de 500 proyectos en Chile, Perú, Colombia y Argentina.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.2497187851518547vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.25vmin;font-family:'Sora';">Combinamos conocimiento técnico profundo con innovación aplicada, utilizando observabilidad y mantenimiento predictivo para asegurar que nuestros clientes operen sin interrupciones.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.944444444444441vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.94vmin;font-family:'Sora';">Lista de Imágenes</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:8.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.68vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.833333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:5.83vmin;font-family:'Roobert ENEL Light';"><B>Diseño y Construcción de </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.833333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:5.83vmin;font-family:'Roobert ENEL Light';"><B>Data Centers Tier III/IV</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.68vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.68vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.058374587458741vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.06vmin;font-family:'Roobert ENEL Light';">Especialistas en infraestructura crítica para minería, energía, banca y salud. Más de 500 proyectos implementados con certificación ANSI/TIA-942. Ahora con asistente de IA para diagnóstico predictivo 24/7.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.6111111111111vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000033;font-size:8.61vmin;font-family:'Sora ExtraBold';"><B>Quiénes Somos.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.68vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.918135233095859vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vmin;font-family:'Sora';">ETICSA es una empresa líder en infraestructura crítica con más de 35 años de trayectoria en Chile y Latinoamérica. Nos especializamos en ingeniería, diseño y mantenimiento de data centers, salas de control y sistemas tecnológicos críticos.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.68vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.918135233095859vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vmin;font-family:'Sora';">Nuestra experiencia abarca sectores donde la continuidad operativa es esencial: minería, energía, salud, banca y telecomunicaciones. Hemos completado más de 500 proyectos en Chile, Perú, Colombia y Argentina.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.68vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.918135233095859vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vmin;font-family:'Sora';">Combinamos conocimiento técnico profundo con innovación aplicada, utilizando observabilidad y mantenimiento predictivo para asegurar que nuestros clientes operen sin interrupciones.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.92vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.68vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+Container_23F7B7B7_0C0A_6293_4197_F931EEC6FA48.toolTip = foto \
+
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Eticsa
