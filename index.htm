@@ -8,39 +8,82 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <script src="lib/tdvplayer.js?v=1770148053194"></script>
     <link rel="shortcut icon" href="favicon.ico?v=1770148053194">
-	<link rel="icon" sizes="48x48 32x32 16x16" href="favicon.ico?v=1770148053194">
-	<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="misc/icon180.png?v=1770148053194">
-	<link rel="icon" type="image/png" sizes="16x16" href="misc/icon16.png?v=1770148053194">
-	<link rel="icon" type="image/png" sizes="32x32" href="misc/icon32.png?v=1770148053194">
-	<link rel="icon" type="image/png" sizes="192x192" href="misc/icon192.png?v=1770148053194">
-	<link rel="manifest" href="manifest.json?v=1770148053194">
-	<meta name="msapplication-TileColor" content="#FFFFFF">
-	<meta name="msapplication-config" content="browserconfig.xml">
-	<link rel="preload" href="locale/es.txt?v=1770148053194" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1770148053194" as="script"/>
-	<link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/r/4/0_0.jpg?v=1770148053194" as="image"/>
-	<link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/l/4/0_0.jpg?v=1770148053194" as="image"/>
-	<link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/u/4/0_0.jpg?v=1770148053194" as="image"/>
-	<link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/d/4/0_0.jpg?v=1770148053194" as="image"/>
-	<link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/f/4/0_0.jpg?v=1770148053194" as="image"/>
-	<link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/b/4/0_0.jpg?v=1770148053194" as="image"/>
-	<script src="scorm.js" type="text/javascript"></script>
-	<script src="https://remote.3dvista.com/lib/tdvremote.js?v=1770148053194" type="text/javascript"></script>
-	<meta name="description" content="Virtual Tour"/>
-	<meta name="theme-color" content="#FFFFFF"/>
+    <link rel="icon" sizes="48x48 32x32 16x16" href="favicon.ico?v=1770148053194">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="misc/icon180.png?v=1770148053194">
+    <link rel="icon" type="image/png" sizes="16x16" href="misc/icon16.png?v=1770148053194">
+    <link rel="icon" type="image/png" sizes="32x32" href="misc/icon32.png?v=1770148053194">
+    <link rel="icon" type="image/png" sizes="192x192" href="misc/icon192.png?v=1770148053194">
+    <link rel="manifest" href="manifest.json?v=1770148053194">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-config" content="browserconfig.xml">
+    <link rel="preload" href="locale/es.txt?v=1770148053194" as="fetch" crossorigin="anonymous"/>
+    <link rel="preload" href="script.js?v=1770148053194" as="script"/>
+    <link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/r/4/0_0.jpg?v=1770148053194" as="image"/>
+    <link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/l/4/0_0.jpg?v=1770148053194" as="image"/>
+    <link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/u/4/0_0.jpg?v=1770148053194" as="image"/>
+    <link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/d/4/0_0.jpg?v=1770148053194" as="image"/>
+    <link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/f/4/0_0.jpg?v=1770148053194" as="image"/>
+    <link rel="preload" href="media/panorama_F487B783_FB12_A565_41D4_8F4AA6BF1587_0/b/4/0_0.jpg?v=1770148053194" as="image"/>
+    <script src="scorm.js" type="text/javascript"></script>
+    
+    <meta name="description" content="Virtual Tour"/>
+    <meta name="theme-color" content="#FFFFFF"/>
     <script src="script.js?v=1770148053194"></script>
     <style type="text/css">
         html, body { height:100%; width:100%; height:100vh; width:100vw; margin:0; padding:0; overflow:hidden; }
         .fill-viewport { position:fixed; top:0; left:0; right:0; bottom:0; padding:0; margin:0; overflow: hidden; }
         .fill-viewport.landscape-left { left: env(safe-area-inset-left); }
-		.fill-viewport.landscape-right { right: env(safe-area-inset-right); }
+        .fill-viewport.landscape-right { right: env(safe-area-inset-right); }
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(255,255,255,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
+        
+        /* Regla de respaldo para ocultar elementos de marca de agua por CSS */
+        div[class*="watermark"], div[id*="watermark"], img[src*="3dvista"] {
+            display: none !important;
+            opacity: 0 !important;
+            pointer-events: none !important;
+        }
     </style>
     <link rel="stylesheet" href="fonts.css?v=1770148053194">
 </head>
 <body>
     <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; overflow: hidden; left: 0%; top: 50%; width: 100.00%; height: 10.00%" ><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.6666666666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">Cargando tour virtual. Espere...</SPAN></DIV></div></div></div>
     <div id="viewer" class="fill-viewport"></div>
+
+    <script>
+        /**
+         * Script de limpieza agresiva para 3DVista Academic
+         * Busca y elimina cualquier nodo inyectado que contenga la marca de agua.
+         */
+        (function() {
+            const clean = () => {
+                const viewer = document.getElementById('viewer');
+                if (!viewer) return;
+
+                // 1. Eliminar por detección de texto
+                const divs = viewer.getElementsByTagName('div');
+                for (let i = divs.length - 1; i >= 0; i--) {
+                    if (divs[i].textContent.toLowerCase().includes('3dvista')) {
+                        divs[i].remove();
+                    }
+                }
+
+                // 2. Eliminar el último elemento inyectado si tiene z-index alto
+                const last = viewer.lastElementChild;
+                if (last && parseInt(window.getComputedStyle(last).zIndex) > 100) {
+                    last.remove();
+                }
+            };
+
+            // Observar cambios en el DOM para actuar en tiempo real
+            const observer = new MutationObserver(clean);
+            observer.observe(document.body, { childList: true, subtree: true });
+
+            // Ejecuciones de respaldo por si el visor carga asincrónicamente
+            clean();
+            setTimeout(clean, 1000);
+            setTimeout(clean, 3000);
+        })();
+    </script>
 </body>
 </html>
