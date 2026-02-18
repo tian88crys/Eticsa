@@ -36,7 +36,19 @@
 		.fill-viewport.landscape-right { right: env(safe-area-inset-right); }
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(255,255,255,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
-    </style>
+    
+		/* Código para ocultar marca de agua de 3DVista */
+        div[id*="watermark"], 
+        div[class*="watermark"],
+        img[src*="3dvista"],
+        div[style*="3dvista"],
+        #viewer > div:last-child > div:last-child {
+            display: none !important;
+            visibility: hidden !important;
+            opacity: 0 !important;
+            pointer-events: none !important;
+        }
+	</style>
     <link rel="stylesheet" href="fonts.css?v=1770148053194">
 </head>
 <body>
