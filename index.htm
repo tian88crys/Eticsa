@@ -37,11 +37,14 @@
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(255,255,255,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
         
-        /* Regla de respaldo para ocultar elementos de marca de agua por CSS */
-        div[class*="watermark"], div[id*="watermark"], img[src*="3dvista"] {
+        /* Fuerza la invisibilidad de cualquier elemento que contenga la marca de agua */
+        [class*="watermark"], [id*="watermark"], img[src*="3dvista"], a[href*="3dvista"] {
             display: none !important;
+            visibility: hidden !important;
             opacity: 0 !important;
             pointer-events: none !important;
+            width: 0 !important;
+            height: 0 !important;
         }
     </style>
     <link rel="stylesheet" href="fonts.css?v=1770148053194">
@@ -51,38 +54,50 @@
     <div id="viewer" class="fill-viewport"></div>
 
     <script>
-        /**
-         * Script de limpieza agresiva para 3DVista Academic
-         * Busca y elimina cualquier nodo inyectado que contenga la marca de agua.
-         */
         (function() {
-            const clean = () => {
-                const viewer = document.getElementById('viewer');
-                if (!viewer) return;
-
-                // 1. Eliminar por detección de texto
-                const divs = viewer.getElementsByTagName('div');
-                for (let i = divs.length - 1; i >= 0; i--) {
-                    if (divs[i].textContent.toLowerCase().includes('3dvista')) {
-                        divs[i].remove();
+            /**
+             * Script Limpiador Avanzado
+             * Escanea el visor para eliminar marcas de agua dinámicas
+             */
+            const purge3DVista = () => {
+                // 1. Buscar por contenido de texto
+                const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+                let node;
+                while(node = walker.nextNode()) {
+                    if (node.nodeValue.toLowerCase().includes('3dvista')) {
+                        const parent = node.parentElement;
+                        if (parent && parent.id !== 'metaViewport') {
+                            parent.style.setProperty('display', 'none', 'important');
+                            parent.remove();
+                        }
                     }
                 }
 
-                // 2. Eliminar el último elemento inyectado si tiene z-index alto
-                const last = viewer.lastElementChild;
-                if (last && parseInt(window.getComputedStyle(last).zIndex) > 100) {
-                    last.remove();
+                // 2. Buscar por atributos y z-index alto (donde se esconde el logo)
+                const viewer = document.getElementById('viewer');
+                if (viewer) {
+                    const elements = viewer.querySelectorAll('div, a, img');
+                    elements.forEach(el => {
+                        const style = window.getComputedStyle(el);
+                        // Las marcas académicas suelen tener z-index > 999
+                        if (parseInt(style.zIndex) > 500 || el.href?.includes('3dvista') || el.src?.includes('3dvista')) {
+                            el.style.setProperty('display', 'none', 'important');
+                            el.remove();
+                        }
+                    });
                 }
             };
 
-            // Observar cambios en el DOM para actuar en tiempo real
-            const observer = new MutationObserver(clean);
+            // Ejecutar el observador para capturar inyecciones tardías del reproductor
+            const observer = new MutationObserver(purge3DVista);
             observer.observe(document.body, { childList: true, subtree: true });
 
-            // Ejecuciones de respaldo por si el visor carga asincrónicamente
-            clean();
-            setTimeout(clean, 1000);
-            setTimeout(clean, 3000);
+            // Ejecuciones forzadas en intervalos críticos de carga
+            purge3DVista();
+            setTimeout(purge3DVista, 500);
+            setTimeout(purge3DVista, 1500);
+            setTimeout(purge3DVista, 3000);
+            setTimeout(purge3DVista, 6000);
         })();
     </script>
 </body>
